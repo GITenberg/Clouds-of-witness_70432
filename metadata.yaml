@@ -1,0 +1,35 @@
+_repo: Clouds-of-witness_70432
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sayers, Dorothy L. (Dorothy Leigh)
+    aliases:
+    - Fleming, Dorothy Leigh Sayers
+    - Sayers, Dorothy Leigh
+    birthdate: 1893
+    deathdate: 1957
+    gutenberg_agent_id: '45867'
+    url: http://www.gutenberg.org/2009/agents/45867
+    wikipedia: https://en.wikipedia.org/wiki/Dorothy_L._Sayers
+description: ''
+gutenberg_issued: '2023-04-01'
+identifiers:
+  gutenberg: '70432'
+language: en
+pgterms:marc905: 20220108055623sayers
+pgterms:marc906: '1927'
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $bImPress, $c1927, copyright 2006.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Private investigators -- England -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Wimsey, Peter, Lord (Fictitious character), 1890- -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Clouds of witness
+url: http://www.gutenberg.org/ebooks/70432
